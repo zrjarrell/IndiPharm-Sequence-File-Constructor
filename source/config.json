@@ -1,5 +1,5 @@
 {
-    "parent_dir": "D:\\IndiPharm_plates",
+    "parent_dir": "H:\\IndiPharm_plates",
     "methods_files": ["C:\\Xcalibur\\methods\\IndiPHARM\\CBL_IndiPHARM_hilic_60kpos_300ulflowrate_45c_5m_ddmsms.meth",
     "C:\\Xcalibur\\methods\\IndiPHARM\\CBL_IndiPHARM_c18_60kneg_300-400ulflowrate_45c_5m_ddmsms.meth"]
 }
